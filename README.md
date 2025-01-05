@@ -1,3 +1,3 @@
-Technical Assessment Frontend Developer - Sportsdunia NIT Patna
+Technical Assessment Frontend Developer
 
-Name - Abhishek Kumar
+Name -  CHIRANJEEVI CHOUDHARY
